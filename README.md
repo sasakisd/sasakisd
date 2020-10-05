@@ -1,4 +1,4 @@
-[![Spotify](https://sasaki_sd.vercel.app/api/spotify)](https://open.spotify.com/user/sasaki_sd)
+[![Spotify](https://sasaki-sd.vercel.app/api/spotify)](https://open.spotify.com/user/sasaki_sd)
 
 
 

@@ -1,4 +1,4 @@
-[![Spotify](novatorem-sable-gamma.vercel.app/api/spotify.py)](https://open.spotify.com/user/xubrqzou98dg6k1i4qj8tvtq8)
+[![Spotify](https://novatorem-sable-gamma.vercel.app/)](https://open.spotify.com/user/xubrqzou98dg6k1i4qj8tvtq8)
 
 
 <!--

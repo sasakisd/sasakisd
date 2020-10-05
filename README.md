@@ -1,12 +1,7 @@
+<link href="https://kevinburke.bitbucket.io/markdowncss/markdown.css" rel="stylesheet"></link>
 
-<div width="100%"
-  style="
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  "
-> 
-  <div width="50%">hoge</div>
+<div> 
+  <h1 width="50%">hoge</h1>
 </div>
 
 

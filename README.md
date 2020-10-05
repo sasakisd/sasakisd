@@ -1,7 +1,5 @@
-<link href="https://kevinburke.bitbucket.io/markdowncss/markdown.css" rel="stylesheet"></link>
-
 <div> 
-  <h1 width="50%">hoge</h1>
+  < width="50%">hoge</h1>
 </div>
 
 

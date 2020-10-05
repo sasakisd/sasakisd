@@ -1,4 +1,13 @@
 
+<div width="100%"
+  style="
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  "
+> 
+  <div width="50%">[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)</div>
+</div>
 
 
 <!--

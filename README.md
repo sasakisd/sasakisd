@@ -6,7 +6,7 @@
     align-items: center;
   "
 > 
-  <div width="50%">[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)</div>
+  <div width="50%">hoge</div>
 </div>
 
 
